@@ -1,3 +1,3 @@
-# web-scraping
+# Web-Scraping
 
-Web scraping done on list of schools in the U.S. pulling school name, state, # students, zip code, and household income of local region for nonprofit startup Equity A1.
+Web scraping online data from Niche including school name, state, # students, zip code, and household income for nonprofit startup Equity A1.
