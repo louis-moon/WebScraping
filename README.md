@@ -27,7 +27,6 @@ For the nonprofit startup Equity A1, this repository contains code to scrape pub
 - findSchool: A recursive function to find and list schools based on a student count threshold.
 - Data, once scraped, is written to a CSV file using Python's built-in CSV module.
 ## Constants
-- API_KEY: Your scraperapi.com API key.
 - NUM_RETRIES: Number of retries for each URL request.
 - NUM_THREADS: Number of threads used in the scraping process.
 - page_beg: Base URL for initiating the scrape.
