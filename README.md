@@ -22,7 +22,7 @@ For the nonprofit startup Equity A1, this repository contains code to scrape pub
 2. Data Scraping:
 
 - Functions extract raw content from URLs, convert it into BeautifulSoup objects, and then extract the desired data, such as school profiles.
-School Finding & Data Export:
+3. School Finding & Data Export:
 
 - findSchool: A recursive function to find and list schools based on a student count threshold.
 - Data, once scraped, is written to a CSV file using Python's built-in CSV module.
